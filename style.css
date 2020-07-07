@@ -90,5 +90,7 @@ p{
 
 
 /* footer part start--------------------------- */
-
+footer {
+    text-align: center;
+}
 /* footer part finish--------------------------- */
